@@ -19,8 +19,7 @@ import os
 BOT_TOKEN = "8692875544:AAEfME2sFMG-TqB11PhV-kknncF2JBTgKT0"
 
 # MongoDB configuration
-MONGODB_URI = "mongodb+srv://venommusic:venom112@cluster0.tvf0tqz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-"
+MONGODB_URI = "mongodb+srv://venommusic:venom112@cluster0.tvf0tqz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 COLLECTION_USERS = "authorized_users"
 COLLECTION_LOGS = "attack_logs"
 COLLECTION_SETTINGS = "user_settings"
